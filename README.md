@@ -6,7 +6,7 @@ For this project, I was tasked with refactoring a HTML file and CSS stylesheet. 
 
 ## How did I get started?
 
-When I first started on this project, my first plan of attack was
+When I first started on this project, my first plan of attack was to just clean up the CSS so that I was working with less code.
 
 ## Horiseon Website
-<img src="C:\Users\kelse\Desktop\Homework\01-HTML-CSS-Git-Code-Refractor\assets\images\Screenshot of Horiseon.png">
+![Screenshot](https://github.com/k-ryanhunt/01-HTML-CSS-Git-Code-Refractor/blob/main/assets/images/Screenshot%20of%20Horiseon.png)
