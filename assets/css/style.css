@@ -8,15 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 18px;
-}
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -27,6 +18,11 @@ p {
 h1 {
     display: inline-block;
     font-size: 48px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 .seo {
@@ -70,6 +66,10 @@ main {
 
 main img {
     max-height: 200px;
+}
+
+p {
+    font-size: 18px;
 }
 
 .float-left {
