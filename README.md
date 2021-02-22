@@ -20,7 +20,7 @@ The website should still have the following criteria after refactor:
 3. Alt tags should be added to all of the images for accessibility.
 
 ## Horiseon Website
-![Screenshot](.\assets\images\Screenshot.png)
+![Screenshot](./assets/images/Screenshot.png)
 
 ## Check out my refactored website here
 https://k-ryanhunt.github.io/01-HTML-CSS-Git-Code-Refactor/
